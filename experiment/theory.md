@@ -50,7 +50,21 @@ $$V_{oav} = \frac {1}{T_s} \biggr[ \int_{t_1}^{T_s-t_1}-V_{DC} ~ dt + \int_{T_s-
 
 </center>
 
-Because in the interval  0 &le; t &le; $T_s$ : $V_{tr} = −V_{tM}+ \left(\frac {4V_{tM}}{T_s}\right)t$, from the condition $V_{tr}(t1) = V_c$
+Because in the interval  0 &le; t &le; T<sub>s</sub> 
+
+<center>
+
+$$V_{tr} = −V_{tM}+ \left(\frac {4V_{tM}}{T_s}\right)t$$ 
+
+</center>
+
+From the condition 
+
+<center>
+
+$$V_{tr}(t1) = V_c$$
+
+</center>
 
 It follows that
 
@@ -96,7 +110,7 @@ $$m_a= \frac {V_{cM}}{V_{tM}} ..........(6)$$
 
 </center>
 
-Here, $m_a$ is the factor of amplitude modulation, equal to the ratio of the sinusoidal control
+Here, m<sub>a</sub> is the factor of amplitude modulation, equal to the ratio of the sinusoidal control
 signal and the triangular carrier signal. On the basis of Equation (5) one can draw a very
 important conclusion that the average value of the output voltage is a sinusoidal
 function having the frequency of the control signals f<sub>1</sub> (dashed line in Fig. 4 (b))
@@ -108,7 +122,7 @@ $$V_{oM} = m_a V_{DC} \le V_{DC}..........(7)$$
 
 </center>
 
-because the amplitude modulation factor $m_a$ < 1.<br><br>
+because the amplitude modulation factor m<sub>a</sub> < 1.<br><br>
 In addition to the factor of amplitude modulation we must remember the harmonics frequency is given by
 
 <center>
